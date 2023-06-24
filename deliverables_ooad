@@ -1,0 +1,34 @@
+How do you evaluate the quality and effectiveness of your OOA deliverables?
+Object-oriented analysis (OOA) is a skill that helps you model the real-world problems and 
+  requirements of a software system. OOA deliverables are the artifacts that document the analysis process, such as use cases,
+class diagrams, sequence diagrams, and state machines. But how do you know if your OOA deliverables are of high quality and effectiveness? 
+  Here are some criteria and methods that you can use to evaluate your OOA deliverables and improve your systems analysis skills.
+1.Clarity and completeness
+One of the main goals of OOA is to capture the essential features and behaviors of the system and its users.
+  Your OOA deliverables should be clear and complete, meaning that they should describe the system's scope,
+  boundaries, actors, scenarios, events, actions, and outcomes in a consistent and understandable way. 
+    You can check the clarity and completeness of your OOA deliverables by reviewing them with your stakeholders, peers, and experts, 
+and by asking questions such as: Does the deliverable cover all the relevant aspects of the problem domain? Does it avoid unnecessary
+  details or assumptions? Does it use a common vocabulary and notation? Does it align with the project objectives and constraints?
+2.Consistency and correctness
+Another important goal of OOA is to ensure that the system's structure and behavior are consistent and correct, meaning that
+  they do not contain any contradictions, errors, or ambiguities. Your OOA deliverables should be consistent and correct, meaning that they 
+    should follow the rules and principles of the object-oriented paradigm, such as encapsulation, inheritance, polymorphism, and abstraction. 
+      You can check the consistency and correctness of your OOA deliverables by applying formal or informal verification techniques, such as syntax checking, 
+semantic analysis, logical reasoning, testing, or simulation, and by asking questions such as: Does the deliverable conform to the OOA methodology and standards? 
+  Does it avoid any conflicts or gaps between different deliverables? Does it reflect the actual or desired behavior of the system and its users?
+3.Modularity and reusability
+A third goal of OOA is to facilitate the design and implementation of the system by using modular and reusable components. 
+  Your OOA deliverables should be modular and reusable, meaning that they should identify and group the system's elements into cohesive and decoupled units that
+    can be easily modified, extended, or reused. You can check the modularity and reusability of your OOA deliverables by applying design principles and patterns, 
+such as cohesion, coupling, abstraction, information hiding, inheritance, composition, or delegation, and by asking questions such as: Does the deliverable divide 
+  the system into logical and manageable parts? Does it promote high cohesion and low coupling among the parts? Does it use appropriate levels of abstraction
+  and information hiding? Does it exploit existing or potential reuse opportunities?
+4.Traceability and maintainability
+A fourth goal of OOA is to support the evolution and maintenance of the system by providing traceable and maintainable documentation.
+  Your OOA deliverables should be traceable and maintainable, meaning that they should link the system's elements to their sources, 
+    dependencies, and impacts, and that they should be easy to update, modify, or extend. You can check the traceability and maintainability of your OOA 
+      deliverables by using tools and techniques, such as matrices, diagrams, annotations, version control, or change management, and by asking questions such as:
+Does the deliverable show the relationships between the system's elements and their requirements, design, implementation, or testing? Does it indicate 
+  the rationale, assumptions, or constraints behind the system's elements? Does it follow a consistent and clear format and style? Does it accommodate
+    changes or additions without affecting its quality or effectiveness?
